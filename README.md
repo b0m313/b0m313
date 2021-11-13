@@ -1,6 +1,4 @@
-<div align="center">
-  ## Hello, I'm Spring 🌱
-</div>
+## Hello, I'm Spring 🌱
 -----------------------------------
 
 <div align="center">
