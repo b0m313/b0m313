@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b0m313&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/b0m313/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=zxx0313)](https://solved.ac/zxx0313)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxx0313)](https://solved.ac/zxx0313)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=zxx0313)](https://solved.ac/zxx0313)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0m313&langs_count=8&layout=compat&theme=vue-dark)
 
