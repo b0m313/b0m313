@@ -1,4 +1,7 @@
-## Hello, I'm Spring 🌱
+<div align="center">
+  ##Hello, I'm Spring 🌱
+</div>
+
 <div align="center">
   
 
@@ -6,8 +9,8 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b0m313&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/b0m313/github-readme-stats)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0m313&langs_count=8&layout=compat&theme=vue-dark)
+   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxx0313)](https://solved.ac/zxx0313)
 
 </div>
 
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxx0313)](https://solved.ac/zxx0313)
+ 
