@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0m313&layout=demo&theme=vue-dark&count_private=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b0m313)](https://github.com/b0m313/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b0m313)
