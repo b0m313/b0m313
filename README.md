@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=b0m313&fontSize=70)
-
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fb0m313&count_bg=%23B3D39A&title_bg=%23264418&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B1&edge_flat=false)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b0m313&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/b0m313/github-readme-stats)
