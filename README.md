@@ -11,10 +11,9 @@
 
   
   <br><br>
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxx0313)](https://solved.ac/zxx0313) <br>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b0m313&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/b0m313/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0m313&theme=vue-dark&private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b0m313&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/b0m313/github-readme-stats) <br>
+   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxx0313)](https://solved.ac/zxx0313) 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0m313&theme=vue-dark&private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
